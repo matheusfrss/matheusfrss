@@ -3,7 +3,7 @@
 
 ---
 
-### 🧠 Sobre mim
+###  Sobre mim
 Tenho 17 anos e curso o Ensino Médio com formação técnica em Desenvolvimento de Jogos (conclusão em 2026).  
 Atuo como Jovem Aprendiz na área de TI e busco me desenvolver como futuro Full Stack Developer.
 

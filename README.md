@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Matheus Farias 👋
-
-- 🌱 Estudante De Desenvolvimento De Jogos
-- 📫 Contate-me no email: matheussfrss@gmail.com
+<P>Sobre mim</P>
+ - Atualmente tenho 17 anos, faço formação tecnica e profissional em Desenvolvimento De Jogos, Finalizando em 2026.
+ - Pretendo atuar como Full Stack. 
 
 ## Olá meu nome é Matheus Farias, Em busca da programação e tecnologia!
 

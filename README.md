@@ -1,21 +1,22 @@
-## Olá, Meu nome é Matheus Farias 👋
-<P>Sobre mim</P>
- - Atualmente tenho 17 anos, faço formação tecnica e profissional em Desenvolvimento De Jogos, Finalizando em 2026.
- - Pretendo atuar como Full Stack. 
+## 👨‍💻 Matheus Farias
+### Estudante de Desenvolvimento de Jogos | Focado em Programação e Tecnologia
 
-## Olá meu nome é Matheus Farias, Em busca da programação e tecnologia!
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/matheus.frss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheussfrss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheuss-fariass" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+### 🧠 Sobre mim
+Tenho 17 anos e curso o Ensino Médio com formação técnica em Desenvolvimento de Jogos (conclusão em 2026).  
+Atuo como Jovem Aprendiz na área de TI e busco me desenvolver como futuro Full Stack Developer.
+
+---
+
+### 🚀 Tecnologias que estou aprendendo
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+
+---
+
+### 📫 Contato
+- [Instagram](https://instagram.com/seuusuario)
+- [Gmail](mailto:seuemail@gmail.com)
+- [LinkedIn](https://linkedin.com/in/seulinkedin)

@@ -13,6 +13,8 @@ Atuo como Jovem Aprendiz na área de TI e busco me desenvolver como futuro Full 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![C#}(<img width="790" height="790" alt="image" src="https://github.com/user-attachments/assets/e42d2995-16ff-4395-82a4-af507f024e32" />
+)
 
 ---
 
